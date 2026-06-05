@@ -16,7 +16,7 @@
 Variant Calling, Annotation, Driver Gene Analysis
 
 ### Multi-omics Disease Subtyping
-TCGA-STAD based disease subtype identification
+TCGA based disease subtype identification
 
 ### Virulence Signature Identification in Xanthomonas
 Quantum-enhanced computational analysis of host specificity
